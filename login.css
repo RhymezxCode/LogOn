@@ -1,0 +1,9 @@
+
+.login:hover{
+    color: chocolate;
+}
+
+.panel{
+     background: rgba(191, 191, 191, 0.5) !important; 
+     border-radius: 100px !important;
+}
